@@ -1,20 +1,20 @@
 ### 👋 Hi there, I'm Mantu Kumar!
 
-<h3 align="center">🚀 A Passionate Frontend Developer from India 🚀</h3>
+<h3 align="center">🚀 A Passionate Web Developer from India 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;MERN%20Stack%20Enthusiast;React%20Lover;Always%20Learning%20New%20Techs&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;MERN%20Stack%20Enthusiast;React%20Lover;Next.js%20Explorer;Always%20Learning%20New%20Techs&center=true&width=500&height=50" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **MERN Stack Projects**
-- 🌱 I’m currently learning **Advanced React and Node.js**
-- 💬 Ask me about **React, JavaScript, MERN Stack**
-- 📧 Reach me at: **mantu911711@gmail.com**
-- 🚀 Fun Fact: I love solving DSA problems and building interactive UIs!
+- 🔭 I’m currently working as a **Freelance Backend Developer** on an e-commerce website
+- 🌱 I’m currently learning **Next.js, Prisma, and PostgreSQL**
+- 💬 Ask me about **React, JavaScript, MERN Stack, Next.js**
+- 💎 Reach me at: **mantu911711@gmail.com**
+- 🚀 Fun Fact: I love solving DSA problems, building interactive UIs, and experimenting with AI-powered projects!
 
 ---
 
@@ -39,8 +39,11 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
@@ -86,3 +89,4 @@
 <p align="center">
   🚀 **Keep Learning. Keep Building. Keep Growing.** 🚀
 </p>
+
