@@ -1,92 +1,99 @@
-### 👋 Hi there, I'm Mantu Kumar!
+# 👨‍💻 Mantu Kumar
 
-<h3 align="center">🚀 A Passionate Web Developer from India 🚀</h3>
+<div align="center">
+  
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mantu%20Kumar&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20|%20Full%20Stack%20%20Developer&descAlignY=55&descAlign=50)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;MERN%20Stack%20Enthusiast;React%20Lover;Next.js%20Explorer;Always%20Learning%20New%20Techs&center=true&width=500&height=50" />
-</p>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A54F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;MERN+Stack+Enthusiast;React+Lover;Next.js+Explorer;Always+Learning+New+Tech)](https://git.io/typing-svg)
+  
+  <p>
+    <a href="https://twitter.com/mantu_kumar91"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+    <a href="https://www.leetcode.com/mantu_kumar91"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+    <a href="https://auth.geeksforgeeks.org/user/mantu_kumar91"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+    <a href="mailto:mantu911711@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://linkedin.com/in/mantu-kumar91"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  </p>
+</div>
 
----
+## 🧠 About Me
 
-### 🧑‍💻 About Me
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-- 🔭 I’m currently working as a **Freelance Backend Developer** on an e-commerce website
-- 🌱 I’m currently learning **Next.js, Prisma, and PostgreSQL**
+- 🌱 Learning **Next.js, Prisma, and PostgreSQL**
 - 💬 Ask me about **React, JavaScript, MERN Stack, Next.js**
-- 💎 Reach me at: **mantu911711@gmail.com**
+- 📧 Reach me at: **mantu911711@gmail.com**
+- 🌟 Building developer-friendly applications and scalable web solutions
+- 📚 Constantly exploring new technologies and frameworks
 - 🚀 Fun Fact: I love solving DSA problems, building interactive UIs, and experimenting with AI-powered projects!
 
----
+## 🛠️ Tech Stack
 
-### 🌐 Connect with Me
+<div align="center">
+  
+  ### Frontend
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+  
+  ### Backend & Database
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+  
+  ### Tools & Others
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  
+</div>
 
-<p align="left">
-  <a href="https://twitter.com/mantu_kumar91" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mantu01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mantu's GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantu01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mantu01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mantu01&theme=algolia&no-frame=true&row=1&column=7" alt="Trophies"/>
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mantu01&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/mantu01/project-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mantu01&repo=project-name&theme=tokyonight&hide_border=true" alt="Featured Project"/>
   </a>
-  <a href="https://www.leetcode.com/mantu_kumar91" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <a href="https://github.com/mantu01/another-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mantu01&repo=another-project&theme=tokyonight&hide_border=true" alt="Featured Project"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/mantu_kumar91" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-</p>
+</div>
 
 ---
 
-### 🚀 Languages & Tools
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mantu01&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <h4>🚀 "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie 🚀</h4>
+</div>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mantu01&show_icons=true&theme=radical" alt="Mantu's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mantu01&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantu01&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mantu01&theme=onestar&row=2&column=3" alt="Trophies"/>
-</p>
-
----
-
-### 🔥 My Contribution Graph
-
-<p align="center">
-  <img src="https://github-contribution-graph.vercel.app/api?username=mantu01&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
-<p align="center">
-  🚀 **Keep Learning. Keep Building. Keep Growing.** 🚀
-</p>
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
